@@ -10,7 +10,7 @@ PEC Registered Engineer · Pakistan (Islamabad)<br>
 I'm an Electrical Power Engineer (BEngg., UET Peshawar, PEC accredited Washington Accord) who works across two worlds: **power systems and utilities** (substation design, SLDs, protection, load flow, field work on LESCO and PESCO networks) and **embedded systems** (bare-metal firmware, PCB design, smart energy metering). I like work that goes from a drawing or a datasheet all the way to a device running in the field.
 
 🔧 **I'm currently working on**<br>
-Open source fixes for grid software (OpenSTEF, Grid2Op, OpenLEADR), bare-metal firmware for MIPS32 M4K (PIC32) microcontrollers through direct register manipulation, ISRs and peripheral control, and IEEE research papers on load forecasting and fault classification.
+Open source fixes for grid software (OpenSTEF, Grid2Op, OpenLEADR), bare-metal firmware for MIPS32 M4K (PIC32) microcontrollers through direct register manipulation, ISRs and peripheral control, and projects on load forecasting and fault classification.
 
 🤝 **I'm looking to collaborate on**<br>
 Power and utilities projects (drawings, studies, documentation), open source grid and energy tools, RTOS development, low level hardware programming without HAL, and custom PCB debugging.
@@ -140,18 +140,3 @@ Substation SLDs, ETAP load flow, PIC/STM/AVR register programming, DLMS/COSEM sm
 **🗣️ Languages:** English (fluent), Urdu (fluent)
 
 ---
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=fahad-ee&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fahad-ee&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-ee&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fahad-ee&theme=blueberry&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fahad-ee&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=fahad-ee&icon=2&color=4)](https://visitcount.itsvg.in)
